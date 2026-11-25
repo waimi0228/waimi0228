@@ -21,10 +21,6 @@
 | [NLP-bart-slang-normalization](https://github.com/waimi0228/NLP-bart-slang-normalization) | 中国語のネットスラングを標準的な表現に書き換える BART モデル |
 | [NLP-word2vec-YouTube-analysis](https://github.com/waimi0228/NLP-word2vec-YouTube-analysis) | YouTube Data API によるデータ収集と CBOW（Word2Vec）の実装 |
 
-## 🏅 資格・受賞
-- JLPT N1
-- TOEIC 635
-- 東呉大学 書巻賞（成績優秀賞）5回
 
 ## 🎓 学歴
 - 2026.04 – 同志社大学大学院 理工学研究科 情報工学専攻 修士課程
