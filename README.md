@@ -10,6 +10,8 @@ Python · Java · SQL · PyTorch · TensorFlow · scikit-learn · Hugging Face �
 - [vgg16-texture-classification](https://github.com/waimi0228/vgg16-texture-classification) — 少数サンプルでの50クラス画像分類（VGG16 転移学習 vs SVM）
 - [NLP-bart-slang-normalization](https://github.com/waimi0228/NLP-bart-slang-normalization) — 中国語ネットスラングの正規化（BART）
 - [NLP-word2vec-YouTube-analysis](https://github.com/waimi0228/NLP-word2vec-YouTube-analysis) — YouTube データ収集と Word2Vec（CBOW）実装
+- [NLP-mt5-slang-normalization](https://github.com/waimi0228/NLP-mt5-slang-normalization) — 中国語ネットスラングの正規化（T5 / mT5）
+- [NLP-intent-classification](https://github.com/waimi0228/NLP-intent-classification) — 行政手続き質問の意図分類（BERT vs BiLSTM）
 
 ### Education
 - 2026 – 同志社大学大学院 理工学研究科 情報工学専攻
