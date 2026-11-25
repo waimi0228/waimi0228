@@ -1,7 +1,7 @@
 # LEE MITING（李 宓庭）
 
 同志社大学大学院 情報工学専攻 M1 ／ 知識情報処理研究室
-姿勢推定（OpenPose）を用いたヨガ姿勢の評価システムを研究中。
+姿勢推定を用いたヨガ姿勢の評価システムを研究中。
 
 ### Skills
 Python · Java · SQL · PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenPose · Docker · Git · Linux
