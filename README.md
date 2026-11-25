@@ -1,30 +1,19 @@
-# Hi, I'm LEE MITING（李 宓庭）👋
+# LEE MITING（李 宓庭）
 
-同志社大学大学院 理工学研究科 情報工学専攻（修士1年）／知識情報処理研究室
+同志社大学大学院 情報工学専攻 M1 ／ 知識情報処理研究室
+姿勢推定（OpenPose）を用いたヨガ姿勢の評価システムを研究中。
 
-人の動きを数値化して分析することに興味があり、
-現在は **姿勢推定（OpenPose）を用いたヨガ姿勢の評価システム** を研究しています。
+### Skills
+Python · Java · SQL · PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenPose · Docker · Git · Linux
 
-## 🔬 研究テーマ
-- ヨガ姿勢の類似度評価システム（骨格推定 × 類似度評価）
+### Projects
+- [vgg16-texture-classification](https://github.com/waimi0228/vgg16-texture-classification) — 少数サンプルでの50クラス画像分類（VGG16 転移学習 vs SVM）
+- [NLP-bart-slang-normalization](https://github.com/waimi0228/NLP-bart-slang-normalization) — 中国語ネットスラングの正規化（BART）
+- [NLP-word2vec-YouTube-analysis](https://github.com/waimi0228/NLP-word2vec-YouTube-analysis) — YouTube データ収集と Word2Vec（CBOW）実装
 
-## 🛠 スキル
-- **言語**：Python, Java, SQL
-- **機械学習 / 深層学習**：PyTorch, TensorFlow / Keras, scikit-learn, Hugging Face Transformers
-- **画像・NLP**：OpenPose, VGG16 転移学習, BART, Word2Vec
-- **その他**：Hadoop, Linux, Docker, Git, Google Colab
+### Education
+- 2026 – 同志社大学大学院 理工学研究科 情報工学専攻
+- 2021 – 2025 東呉大学（台湾）資訊管理学系
 
-## 📂 主な成果物
-| リポジトリ | 内容 |
-|---|---|
-| [vgg16-texture-classification](https://github.com/waimi0228/vgg16-texture-classification) | 少数サンプル（各クラス12枚）での50クラス画像分類。VGG16 転移学習と SVM の比較 |
-| [NLP-bart-slang-normalization](https://github.com/waimi0228/NLP-bart-slang-normalization) | 中国語のネットスラングを標準的な表現に書き換える BART モデル |
-| [NLP-word2vec-YouTube-analysis](https://github.com/waimi0228/NLP-word2vec-YouTube-analysis) | YouTube Data API によるデータ収集と CBOW（Word2Vec）の実装 |
-
-
-## 🎓 学歴
-- 2026.04 – 同志社大学大学院 理工学研究科 情報工学専攻 修士課程
-- 2021.09 – 2025.06 東呉大学（台湾）資訊管理学系（計算機科学と情報管理）
-
-## 🌏 言語
-中国語（母語）／日本語／英語
+### Languages
+中国語（母語）· 日本語 · 英語
